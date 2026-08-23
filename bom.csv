@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"R1",1,"220 Ω Resistencia"
+"D1",1,"Rojo LED"
+"1",1," Placa de pruebas pequeña"
+"U1",1," Arduino Uno R3"
+"PIR1",1," Sensor PIR"
